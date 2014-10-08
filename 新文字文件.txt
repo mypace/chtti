@@ -1,3 +1,7 @@
 var aaa;
 var bbb;
+<<<<<<< HEAD
 var master;
+=======
+var fff;
+>>>>>>> 0ed3e7c75ebe02218524a45b17c2f6bd14788c55
